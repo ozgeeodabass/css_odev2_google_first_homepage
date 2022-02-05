@@ -1,0 +1,42 @@
+
+container {
+    text-align: -webkit-center;
+}
+
+img {
+        width: 351px;
+        aspect-ratio: auto 351 / 113;
+        height: 113px;
+    
+}
+
+.box-grey {
+    background-color: rgb(223, 223, 223);
+    width: 1000px;
+    height: 70px;
+}
+
+.card {
+    width: auto;
+    height: 63px;
+    float: left;
+    margin: 2px;
+    padding: 20px;
+    background-color: rgb(88, 206, 202);
+}
+
+.card-first {
+   width: 30%;
+   margin-left: 17.1%;
+}
+
+.card-last {
+    width: 21.1%;
+}
+
+input[type="text" i] {
+    padding: 1px 2px;
+    border-width: 2px;
+    width: 300px;
+}
+
